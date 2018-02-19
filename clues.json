@@ -1,0 +1,8 @@
+[
+{"l":"1","c":["img:a.jpg"]},
+{"l":"2","c":["txt:a","aud:b.mp3","txt:c"]},
+{"l":"3","c":["txt:a","txt:b","vid:c.mp4"]},
+{"l":"4","c":["txt:a","txt:b","txt:c"]},
+{"l":"5","c":["txt:a","txt:b","txt:c"]},
+{"l":"6","c":["txt:a","txt:b","txt:c"]}
+]
